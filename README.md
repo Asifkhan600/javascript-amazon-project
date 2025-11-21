@@ -1,0 +1,1 @@
+A fully responsive Amazon Clone built using HTML, CSS, and JavaScript. It features a modern UI, product sections, navigation bar, and interactive elements. This project highlights my frontend skills and showcases my ability to recreate real-world e-commerce website designs.
